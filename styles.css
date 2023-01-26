@@ -8,12 +8,42 @@ body {
     background-color: rgb(237, 163, 163);
 }
 
-h1 {
+body>h1:first-child {
     margin: auto;
-    font-size: 25px;
+    font-size: 80px;
     color: rgb(62, 62, 62);
     font-family: 'Montserrat', sans-serif;
     font-weight: 800;
+<<<<<<< HEAD
     
 }
 
+=======
+    text-align: center;
+
+}
+
+.container-main {
+    margin: auto;
+    max-width: 90%;
+    background-color: rgb(255, 255, 255);
+    text-align: center;
+    display: flex;
+    justify-content: center;
+}
+
+.circle {
+    max-width: 8px;
+    max-height: 8px;
+}
+
+.circle:nth-child(1) {
+    float: left;
+    color: aqua;
+}
+
+.circle:nth-child(2) {
+    float: right;
+    color: aqua;
+}
+>>>>>>> 968bfb3 (I made changes)
