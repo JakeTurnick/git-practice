@@ -48,3 +48,10 @@ body>h1 {
     float: right;
     color: aqua;
 }
+
+#test {
+
+    max-width: 450px;
+    max-height: auto;
+    margin: auto;
+}
