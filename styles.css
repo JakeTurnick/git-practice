@@ -23,26 +23,10 @@ body>h1 {
 
 }
 
-.container-main {
-    margin: auto;
-    max-width: 90%;
-    background-color: rgb(255, 255, 255);
-    text-align: center;
-    display: flex;
-    justify-content: center;
+.flower-power{
+    border: 1in solid rgb(170, 79, 95);
 }
 
-.circle {
-    width: 8px;
-    height: 8px;
-    border: 1px solid transparent;
-    border-radius: 50%;
-}
-
-.circle:nth-child(1) {
-    float: left;
-    color: aqua;
-}
 
 .circle:nth-child(2) {
     float: right;
