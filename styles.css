@@ -24,7 +24,10 @@ body>h1 {
 }
 
 .flower-power {
+    height: 300px;
+    width: 300px;
     border: 1in solid rgb(170, 79, 95);
+
 }
 
 .circle:nth-child(1) {
