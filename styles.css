@@ -23,7 +23,7 @@ body>h1 {
 
 }
 
-.flower-power{
+.flower-power {
     border: 1in solid rgb(170, 79, 95);
 }
 
@@ -37,11 +37,12 @@ body>h1 {
     color: aqua;
 }
 
-#test {
+#meme-container {
 
-    max-width: 450px;
-    max-height: 100%;
+    width: 250px;
+    height: 100%;
     margin: auto;
+
 }
 
 .play-table {
