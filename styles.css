@@ -1,0 +1,13 @@
+/************** fonts ***************/
+/*
+font-family: 'Montserrat', sans-serif;
+
+*/
+h1 {
+    margin: auto;
+    font-size: 25px;
+    color: rgb(62, 62, 62);
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 800;
+    
+}
